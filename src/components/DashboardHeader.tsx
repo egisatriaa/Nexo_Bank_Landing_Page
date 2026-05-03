@@ -312,7 +312,7 @@ const DashboardHeader: React.FC = () => {
                         </li>
                         <li className='tw-pt-2 border-top border-gray-100'>
                           <Link
-                            href='/log-in'
+                            href='https://nexobank.distreaming.my.id/login'
                             className='tw-py-3 tw-text-4 tw-px-5 hover-bg-danger-50 text-neutral-300 hover-text-danger-600 tw-duration-500 tw-rounded-md d-flex align-items-center tw-gap-2 fw-semibold tw-text-4'
                           >
                             <span className='tw-text-2xl text-danger-600 d-flex'>

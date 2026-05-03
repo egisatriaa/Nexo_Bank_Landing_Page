@@ -93,7 +93,7 @@ const BannerTwo: React.FC = () => {
                 >
                   <div className='position-relative z-1'>
                     <Link
-                      href='/log-in'
+                      href='https://nexobank.distreaming.my.id/register'
                       className='banner-two-link bg-main-600 fw-semibold tw-text-lg text-dark-600 tw-px-10 tw-py-3 rounded-3 border-two-px-solid hover-text-dark-600'
                     >
                       OPEN A FREE ACCOUNT

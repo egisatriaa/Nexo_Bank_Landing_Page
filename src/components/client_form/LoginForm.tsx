@@ -100,7 +100,7 @@ const LoginForm: React.FC = () => {
       </button>
       <span className='fw-semibold tw-text-4 text-primary-50 text-center justify-content-center d-flex'>
         Don&apos;t have an account?
-        <Link href='/sign-up' className='fw-semibold text-primary-600'>
+        <Link href='https://nexobank.distreaming.my.id/register' className='fw-semibold text-primary-600'>
           {" "}
           Sign up
         </Link>

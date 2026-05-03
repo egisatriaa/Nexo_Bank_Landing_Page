@@ -53,7 +53,7 @@ const BannerFour: React.FC = () => {
               >
                 <div className='position-relative max-w-160-px w-100'>
                   <a
-                    href='#'
+                    href='https://nexobank.distreaming.my.id/register'
                     className='banner-four-link text-dark-700 tw-py-205 bg-main-600 border-two-px-solid w-100 text-center tw-rounded-md fw-semibold tw-text-405 hover-text-dark-700'
                   >
                     GET STARTED
