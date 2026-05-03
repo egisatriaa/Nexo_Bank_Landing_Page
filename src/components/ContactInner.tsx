@@ -132,11 +132,7 @@ const ContactInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Kami menawarkan berbagai layanan perbankan digital termasuk transfer uang instan, pembukaan rekening tabungan secara online, pembayaran tagihan, serta sistem manajemen keuangan pribadi yang aman dan efisien.
                       </p>
                     </div>
                   </div>
@@ -165,11 +161,7 @@ const ContactInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Anda dapat mengakses layanan kami melalui website resmi Nexo Bank atau mengunduh aplikasi mobile kami di Google Play Store dan Apple App Store. Cukup daftar menggunakan KTP dan email aktif Anda.
                       </p>
                     </div>
                   </div>
@@ -198,11 +190,7 @@ const ContactInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Nexo Bank berkomitmen pada transparansi. Biaya administrasi bulanan kami sangat rendah, dan banyak layanan seperti transfer antar bank tertentu atau pembayaran QRIS tidak dikenakan biaya tambahan.
                       </p>
                     </div>
                   </div>
@@ -223,7 +211,7 @@ const ContactInner: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseFour'
                     >
-                      What fees should I expect?
+                      What security measures protect my information?
                     </button>
                   </h2>
                   <div
@@ -233,77 +221,7 @@ const ContactInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className='accordion-item tw-mb-6 rounded-3 bg-white border-neutral-1px-solid'
-                  data-aos='fade-up'
-                  data-aos-duration={900}
-                >
-                  <h2 className='accordion-header cursor-big'>
-                    <button
-                      className='accordion-button collapsed bg-white rounded-3 tw-text-xl'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#collapseFive'
-                      aria-expanded='false'
-                      aria-controls='collapseFive'
-                    >
-                      What fees should I expect?
-                    </button>
-                  </h2>
-                  <div
-                    id='collapseFive'
-                    className='accordion-collapse collapse'
-                    data-bs-parent='#accordionExample'
-                  >
-                    <div className='accordion-body'>
-                      <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className='accordion-item tw-mb-6 rounded-3 bg-white border-neutral-1px-solid'
-                  data-aos='fade-up'
-                  data-aos-duration={1100}
-                >
-                  <h2 className='accordion-header cursor-big'>
-                    <button
-                      className='accordion-button collapsed bg-white rounded-3 tw-text-xl'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#collapseSix'
-                      aria-expanded='false'
-                      aria-controls='collapseSix'
-                    >
-                      What fees should I expect?
-                    </button>
-                  </h2>
-                  <div
-                    id='collapseSix'
-                    className='accordion-collapse collapse'
-                    data-bs-parent='#accordionExample'
-                  >
-                    <div className='accordion-body'>
-                      <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Kami menggunakan enkripsi tingkat tinggi, autentikasi dua faktor (2FA), dan sistem pemantauan transaksi real-time untuk memastikan data dan dana Anda selalu terlindungi dari akses yang tidak sah.
                       </p>
                     </div>
                   </div>

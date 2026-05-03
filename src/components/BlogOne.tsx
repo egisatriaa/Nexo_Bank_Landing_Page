@@ -47,7 +47,8 @@ const BlogOne: React.FC = () => {
                             data-aos-duration={1000}
                         >
                             <Link
-                                href="/blog-list"
+                                // href="/blog-list"
+                                href="#"
                                 className="articles-link w-100 text-center tw-py-205 bg-main-600 rounded-3 tw-text-lg text-dark-700 border-two-px-solid fw-semibold hover-text-dark-600"
                             >
                                 ALL BLOGS
@@ -101,7 +102,8 @@ const BlogOne: React.FC = () => {
                                 </p>
                                 <div className="position-relative z-1 max-w-160-px w-100">
                                     <Link
-                                        href="/blog-details"
+                                        // href="/blog-details"
+                                        href="#"
                                         className="articles-view-link w-100 text-center tw-py-205 bg-main-600 rounded-3 text-dark-600 fw-semibold tw-text-lg hover-text-dark-600"
                                     >
                                         VIEW DETAILS
@@ -153,7 +155,8 @@ const BlogOne: React.FC = () => {
                                     </p>
                                     <div className="position-relative z-1 max-w-160-px w-100">
                                         <Link
-                                            href="/blog-details"
+                                            // href="/blog-details"
+                                            href="#"
                                             className="articles-view-link w-100 text-center tw-py-205 bg-main-600 rounded-3 text-dark-600 fw-semibold tw-text-lg hover-text-dark-600"
                                         >
                                             VIEW DETAILS
@@ -202,7 +205,8 @@ const BlogOne: React.FC = () => {
                                     </p>
                                     <div className="position-relative z-1 max-w-160-px w-100">
                                         <Link
-                                            href="/blog-details"
+                                            // href="/blog-details"
+                                            href="#"
                                             className="articles-view-link w-100 text-center tw-py-205 bg-main-600 rounded-3 text-dark-600 fw-semibold tw-text-lg hover-text-dark-600"
                                         >
                                             VIEW DETAILS

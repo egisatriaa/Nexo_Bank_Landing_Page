@@ -61,9 +61,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Kami menawarkan berbagai layanan perbankan digital termasuk transfer uang instan, pembukaan rekening tabungan secara online, pembayaran tagihan, serta sistem manajemen keuangan pribadi yang aman dan efisien.
                       </p>
                     </div>
                   </div>
@@ -92,9 +90,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Anda dapat mengakses layanan kami melalui website resmi Nexo Bank atau mengunduh aplikasi mobile kami di Google Play Store dan Apple App Store. Cukup daftar menggunakan KTP dan email aktif Anda.
                       </p>
                     </div>
                   </div>
@@ -123,9 +119,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Nexo Bank berkomitmen pada transparansi. Biaya administrasi bulanan kami sangat rendah, dan banyak layanan seperti transfer antar bank tertentu atau pembayaran QRIS tidak dikenakan biaya tambahan.
                       </p>
                     </div>
                   </div>
@@ -154,9 +148,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Kami menggunakan enkripsi tingkat tinggi, autentikasi dua faktor (2FA), dan sistem pemantauan transaksi real-time untuk memastikan data dan dana Anda selalu terlindungi dari akses yang tidak sah.
                       </p>
                     </div>
                   </div>
@@ -187,9 +179,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Anda dapat memperbarui informasi pribadi seperti alamat atau nomor telepon melalui menu Pengaturan Akun di aplikasi Nexo Bank, atau dengan menghubungi layanan pelanggan kami.
                       </p>
                     </div>
                   </div>
@@ -218,9 +208,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Pengajuan pinjaman dapat dilakukan langsung melalui aplikasi kami pada menu 'Pinjaman'. Cukup lengkapi data pendukung dan tim kami akan melakukan verifikasi dalam waktu singkat.
                       </p>
                     </div>
                   </div>
@@ -249,9 +237,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Tim dukungan pelanggan kami siap membantu 24/7. Anda dapat menghubungi kami melalui fitur Chat di aplikasi, email ke support@nexobank.com, atau melalui nomor call center resmi.
                       </p>
                     </div>
                   </div>
@@ -280,9 +266,7 @@ const FAQTwo: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password.
+                        Jika Anda lupa password, klik 'Lupa Password' di halaman login. Kami akan mengirimkan kode verifikasi ke email atau nomor telepon yang terdaftar untuk mereset password Anda.
                       </p>
                     </div>
                   </div>

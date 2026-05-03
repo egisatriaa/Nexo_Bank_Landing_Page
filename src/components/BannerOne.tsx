@@ -77,10 +77,10 @@ const BannerOne: React.FC = () => {
                                     >
                                         <div className="max-w-248-px position-relative w-100">
                                             <a
-                                                href="#"
+                                                href="https://nexobank.distreaming.my.id/register"
                                                 className="banner-item-link bg-main-600 text-dark-600 fw-semibold w-100 tw-py-3 text-center tw-text-lg border-two-px-solid rounded-3 hover-text-dark-600 tw-duration-500"
                                             >
-                                                MAKE AN APPOINTMENT
+                                                GET STARTED
                                             </a>
                                         </div>
                                         <div className="d-flex align-items-center tw-gap-10 flex-wrap">

@@ -13,7 +13,7 @@ const FooterThree: React.FC = () => {
                                     <Image
                                         width={171}
                                         height={40}
-                                        src="/assets/images/logo/logo.png"
+                                        src="/assets/images/logo/nexo-logo.svg"
                                         alt="Image"
                                         className="tw-mb-6"
                                     />
@@ -155,8 +155,7 @@ const FooterThree: React.FC = () => {
                                     Contact Us
                                 </h4>
                                 <p className="fw-normal tw-text-lg text-neutral-10 tw-mb-705">
-                                    Kab. Bandung Barat, Jawa Barat, Indonesia,
-                                    California 62639
+                                    Kab. Bandung Barat, Jawa Barat, Indonesia
                                 </p>
                                 <h5 className="fw-bold text-neutral-10 tw-mb-3 cursor-big">
                                     (+62) 83144544243
