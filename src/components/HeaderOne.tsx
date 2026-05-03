@@ -153,7 +153,8 @@ const HeaderOne: React.FC = () => {
                                                     {item.children.map(
                                                         (sub) => {
                                                             const isDisabled =
-                                                                item.label === 'Dashboard' || item.label === 'PAGES';
+                                                                ['Dashboard', 'PAGES', 'BLOG', 'ABOUT'].includes(item.label) || 
+                                                                ['Home Two', 'Home Three', 'Home Four', 'About Us'].includes(sub.label);
                                                             return (
                                                                 <li
                                                                     key={sub.to}
@@ -210,14 +211,14 @@ const HeaderOne: React.FC = () => {
                             <div className="d-sm-block d-none">
                                 <div className="d-flex align-items-center tw-gap-605 flex-wrap">
                                     <Link
-                                        href="/log-in"
+                                        href="https://nexobank.distreaming.my.id/login"
                                         className="text-white fw-semibold tw-text-lg hover-text-main-600 tw-duration-500"
                                     >
                                         LOGIN
                                     </Link>
                                     <div className="position-relative z-1">
                                         <Link
-                                            href="/sign-up"
+                                            href="https://nexobank.distreaming.my.id/register"
                                             className="header-item-link text-dark-600 fw-semibold tw-text-lg tw-px-4 tw-py-2 bg-warning-600 border-two-px-solid border-warning-600 rounded-2 hover-text-dark-600"
                                         >
                                             SIGN IN
@@ -306,7 +307,8 @@ const HeaderOne: React.FC = () => {
                                             >
                                                 {item.children.map((sub) => {
                                                     const isDisabled =
-                                                        item.label === 'Dashboard' || item.label === 'PAGES';
+                                                        ['Dashboard', 'PAGES', 'BLOG', 'ABOUT'].includes(item.label) || 
+                                                        ['Home Two', 'Home Three', 'Home Four', 'About Us'].includes(sub.label);
                                                     return (
                                                         <li
                                                             key={sub.to}
@@ -333,9 +335,7 @@ const HeaderOne: React.FC = () => {
                                                                 }
                                                                 onClick={
                                                                     isDisabled
-                                                                        ? (
-                                                                              e,
-                                                                          ) =>
+                                                                        ? (e) =>
                                                                               e.preventDefault()
                                                                         : undefined
                                                                 }

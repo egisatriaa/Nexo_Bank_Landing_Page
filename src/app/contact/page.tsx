@@ -9,27 +9,30 @@ import NewsletterTwo from "@/components/NewsletterTwo";
 import FooterThree from "@/components/FooterThree";
 import ContactInner from "@/components/ContactInner";
 
-export const generateMetadata = async (): Promise<Metadata> => {
-  return {
-    title: "Contact | PayOne Money Exchange Next JS Template",
+export const metadata: Metadata = {
+  metadataBase: new URL("https://nexo-bank.vercel.app"), // ganti nanti
+
+  title: "Contact | Nexo Bank",
+  description:
+    "Nexo Bank adalah aplikasi bank digital modern untuk transfer, tabungan, dan pembayaran dengan keamanan tinggi dan sistem transaksi yang andal.",
+
+  openGraph: {
+    title: "Contact | Nexo Bank",
     description:
-      "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
-    openGraph: {
-      title: "Contact | PayOne",
-      description:
-        "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
-      url: "https://nextjs.payone.wowtheme7.com/contact",
-      type: "website",
-      images: [
-        {
-          url: "https://nextjs.payone.wowtheme7.com/images/meta.png",
-          width: 1200,
-          height: 630,
-          alt: "PayOne",
-        },
-      ],
-    },
-  };
+      "Kelola keuanganmu dengan Nexo Bank — platform bank digital modern dengan fitur transfer, saving, dan pembayaran terintegrasi.",
+    url: "/contact",
+    siteName: "Nexo Bank",
+    images: [
+      {
+        url: "/images/meta.png", // hasil convert dari logo
+        width: 1200,
+        height: 630,
+        alt: "Nexo Bank",
+      },
+    ],
+    locale: "id_ID",
+    type: "website",
+  },
 };
 
 const Page: React.FC = () => {
