@@ -11,7 +11,7 @@ const CountryDropdown: React.FC = () => {
     const options: Option[] = [
         {
             label: 'IDN',
-            flag: '/assets/images/flag/indonesia.svg',
+            flag: '/assets/images/flag/Indonesia.png',
         },
         { label: 'BAN', flag: '/assets/images/flag/bangladesh.png' },
         { label: 'CHA', flag: '/assets/images/flag/china.png' },
